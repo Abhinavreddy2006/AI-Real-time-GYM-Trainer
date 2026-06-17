@@ -151,7 +151,6 @@ def main():
 
     inject_webrtc_styles()
 
-    
 
 if __name__ == "__main__": 
     main()
